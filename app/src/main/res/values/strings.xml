@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MDT</string>
+    <string name="prompt_email">Email</string>
+<string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_event_detail">EventDetail</string>
+    <string name="title_activity_event">Event</string>
+    <string name="comments">Add Comments</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_create_event">CreateEvent</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_me">Me</string>
+</resources>
